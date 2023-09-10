@@ -1,0 +1,7 @@
+O escopo deste projeto centra-se na concepção e implementação de uma plataforma de comércio eletrônico voltada para o setor de PetShop, por meio de uma aplicação web. O objetivo principal da plataforma é proporcionar uma experiência abrangente para os usuários, permitindo-lhes acessar produtos e serviços relacionados a cuidados com animais de estimação.
+
+As funcionalidades primárias da plataforma incluem a oferta de serviços de hospedagem para cães e gatos, bem como serviços de banho e tosa. É importante ressaltar que os valores para esses serviços são diferenciados para cães e gatos de pequeno e grande porte, refletindo a diversidade de necessidades dos clientes.
+
+Além disso, a plataforma disponibiliza uma loja virtual que oferece uma ampla gama de produtos para animais de estimação. Esses produtos são categorizados em função do tipo de animal de estimação, ou seja, cães e gatos. A variedade de produtos é extensa e engloba desde diferentes tipos de rações até brinquedos e acessórios.
+
+O objetivo é proporcionar aos clientes uma experiência conveniente e completa, onde possam encontrar soluções abrangentes para as necessidades de seus animais de estimação. 
